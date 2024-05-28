@@ -1,0 +1,15 @@
+.itemHolderElement {
+    border-bottom: 1px solid #dddddd;
+    border-radius: 16px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+.itemNome {
+    height: 20%;
+    font-size: larger;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,36 @@
+- Home
+
+> acesso ao Cardapio
+> acesso ao Carrinho
+> acesso aos Pedidos
+
+> mostra a mesa
+
+
+- Cardapio
+
+> acesso ao Home
+> acesso ao Carrinho
+> acesso aos Pedidos
+
+> acesso à diversos Itens
+
+> funcionalidade para adicionar item ao carrinho
+
+
+- Item
+
+> acesso ao Cardapio
+
+> funcionalidade de editar comentários/quantidade do Item
+
+> funcionalidade de adicionar item ao carrinho
+
+
+- Carrinho
+
+> acesso ao Home
+> acesso aos Pedidos
+
+> funcionalidade para adicionar novo pedido
+
